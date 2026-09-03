@@ -1,0 +1,6 @@
+{
+  "name": "Bárbara Vitória — Fotografia",
+  "description": "Landing page autoral e moderna da fotógrafa Bárbara Vitória em Itajaí. Contando histórias reais através da fotografia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
